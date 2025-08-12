@@ -2,5 +2,6 @@
   (version 7)
   (lib (name "STM32F042F6P6")(type "KiCad")(uri "${KIPRJMOD}/lib/STM32F042F6P6/STM32F042F6P6.pretty")(options "")(descr "microcontroller"))
   (lib (name "TPS62842DGRR")(type "KiCad")(uri "${KIPRJMOD}/lib/TPS62842DGRR/TPS62842DGRR.pretty")(options "")(descr ""))
-  (lib (name "TMP127EDBVRQ1")(type "KiCad")(uri "${KIPRJMOD}/lib/TMP127EDBVRQ1")(options "")(descr ""))
+  (lib (name "TMP127EDBVRQ1")(type "KiCad")(uri "${KIPRJMOD}/lib/TMP127EDBVRQ1/TMP127EDBVRQ1.pretty")(options "")(descr ""))
+  (lib (name "3382G1103G")(type "KiCad")(uri "${KIPRJMOD}/lib/3382G-1-103G/3382G1103G.pretty")(options "")(descr ""))
 )

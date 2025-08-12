@@ -7,21 +7,21 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "IC"
-			(at 26.67 7.62 0)
+			(at 0 11.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
+				(justify bottom)
 			)
 		)
 		(property "Value" "TPS62842DGRR"
-			(at 26.67 5.08 0)
+			(at 0 8.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
+				(justify bottom)
 			)
 		)
 		(property "Footprint" "SOP65P490X110-9N"
@@ -45,7 +45,7 @@
 			)
 		)
 		(property "Description" "Switching Voltage Regulators 60-nA IQ, 1.8-V to 6.5-VIN, high-efficiency 750-mA step-down converter 8-HVSSOP -40 to 125"
-			(at 0 0 0)
+			(at 0 -1.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -105,8 +105,8 @@
 		)
 		(symbol "TPS62842DGRR_1_1"
 			(rectangle
-				(start 5.08 2.54)
-				(end 25.4 -20.32)
+				(start -6.35 7.62)
+				(end 6.35 -7.62)
 				(stroke
 					(width 0.254)
 					(type default)
@@ -116,7 +116,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 0 0)
+				(at -11.43 5.08 0)
 				(length 5.08)
 				(name "VIN"
 					(effects
@@ -134,7 +134,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -2.54 0)
+				(at -11.43 2.54 0)
 				(length 5.08)
 				(name "GND"
 					(effects
@@ -152,7 +152,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -5.08 0)
+				(at -11.43 0 0)
 				(length 5.08)
 				(name "EN"
 					(effects
@@ -170,7 +170,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -7.62 0)
+				(at -11.43 -2.54 0)
 				(length 5.08)
 				(name "MODE"
 					(effects
@@ -188,7 +188,7 @@
 				)
 			)
 			(pin passive line
-				(at 30.48 0 180)
+				(at 11.43 5.08 180)
 				(length 5.08)
 				(name "SW"
 					(effects
@@ -206,7 +206,7 @@
 				)
 			)
 			(pin passive line
-				(at 30.48 -2.54 180)
+				(at 11.43 2.54 180)
 				(length 5.08)
 				(name "VOS"
 					(effects
@@ -224,7 +224,7 @@
 				)
 			)
 			(pin passive line
-				(at 30.48 -5.08 180)
+				(at 11.43 0 180)
 				(length 5.08)
 				(name "VSET"
 					(effects
@@ -242,7 +242,7 @@
 				)
 			)
 			(pin no_connect line
-				(at 30.48 -7.62 180)
+				(at 11.43 -2.54 180)
 				(length 5.08)
 				(name "NC"
 					(effects
@@ -260,7 +260,7 @@
 				)
 			)
 			(pin passive line
-				(at 30.48 -12.7 180)
+				(at 11.43 -5.08 180)
 				(length 5.08)
 				(name "EP"
 					(effects
