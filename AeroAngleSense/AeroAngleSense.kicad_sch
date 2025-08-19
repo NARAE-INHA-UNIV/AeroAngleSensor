@@ -3870,7 +3870,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 170.18 93.98 0)
 			(effects
 				(font
@@ -3980,7 +3980,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 168.91 63.5 0)
 			(effects
 				(font
@@ -4591,7 +4591,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 48.26 64.77 0)
 			(effects
 				(font
@@ -4933,7 +4933,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 209.55 67.31 0)
 			(effects
 				(font
@@ -5107,7 +5107,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 144.78 64.77 0)
 			(effects
 				(font
@@ -5413,7 +5413,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 149.86 64.77 0)
 			(effects
 				(font
@@ -5694,7 +5694,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 123.19 99.06 0)
 			(effects
 				(font
@@ -5870,7 +5870,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "VLS201610ET-2R2M:VLS201610ET-2R2M"
 			(at 205.74 59.69 0)
 			(effects
 				(font
@@ -6046,7 +6046,7 @@
 				)
 			)
 		)
-		(property "Footprint" "JST_GH:JST_GH_SM04B-GHS-TB_04x1.25mm_Angled"
+		(property "Footprint" "JST_GH_SM:JST_GH_SM04B-GHS-TB_04x1.25mm_Angled"
 			(at 130.81 133.35 0)
 			(effects
 				(font
@@ -6261,7 +6261,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 53.34 64.77 0)
 			(effects
 				(font
@@ -6370,7 +6370,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 119.38 95.25 0)
 			(effects
 				(font
@@ -6613,7 +6613,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 64.77 50.8 0)
 			(effects
 				(font
@@ -6724,7 +6724,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 213.36 63.5 0)
 			(effects
 				(font
@@ -6835,7 +6835,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "JST_GH:JST_GH_SM06B-GHS-TB_06x1.25mm_Angled"
+		(property "Footprint" "JST_GH_SM:JST_GH_SM06B-GHS-TB_06x1.25mm_Angled"
 			(at 91.44 134.62 0)
 			(effects
 				(font
@@ -7125,7 +7125,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 220.98 92.71 0)
 			(effects
 				(font
@@ -7567,7 +7567,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 139.7 64.77 0)
 			(effects
 				(font
