@@ -187,7 +187,10 @@
         }
       ],
       "track_widths": [
-        0.0
+        0.0,
+        0.2,
+        0.25,
+        0.4
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -487,12 +490,12 @@
         "wire_width": 6
       },
       {
-        "clearance": 0.6,
+        "clearance": 0.4,
         "name": "5V",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 0,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.6
+        "track_width": 0.4
       }
     ],
     "meta": {

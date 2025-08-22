@@ -58,7 +58,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "AeroAngleSense.kicad_prl",
+    "filename": "_autosave-AeroAngleSense.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
@@ -87,16 +87,16 @@
       9
     ],
     "col_widths": [
-      81,
-      74,
-      50,
-      35,
-      50,
-      50,
-      50,
-      36,
-      50,
-      50
+      294,
+      279,
+      174,
+      119,
+      174,
+      174,
+      174,
+      119,
+      174,
+      174
     ],
     "custom_group_rules": [],
     "expanded_rows": [],
