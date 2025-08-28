@@ -7124,8 +7124,8 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "DIO CLK NRST TX"
-		(at 30.5 60.25 270)
+	(gr_text "3.3V DIO CLK NRST TX GND\n"
+		(at 30.5 63 270)
 		(layer "B.SilkS")
 		(uuid "2c7270a0-3f50-40a6-beef-ffeb7aea7afa")
 		(effects
